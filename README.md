@@ -1,4 +1,4 @@
-# Learnery::Theme (variant: webdev)
+# Learnery::Theme (variant: railsgirls)
 
 a gem that adds a white theme with dark top navigation and some red
 
@@ -14,7 +14,7 @@ https://github.com/learnery/learnery
 
 Add this line to your learnery application's Gemfile:
 
-    gem 'learnery-theme', :git => 'https://github.com/learnery/learnery-theme-webdev.git'
+    gem 'learnery-theme', :git => 'https://github.com/learnery/learnery-theme-railsgirls.git'
 
 And then execute:
 
