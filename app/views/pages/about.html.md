@@ -9,13 +9,18 @@ and deploy the app to heroku in a few simple steps.
 ### This Site
 
 Look at the URL of this site: 
-http://serene-badlands-9643.herokuapp.com/
+http://learnery-staging-railsgirls.herokuapp.com/
 is it the official demo site of Learnery with
 theme-railsgirls
 
 Do you see a differnt URL?  Then this is some 
 installation of learnery, with theme-railsgirls installed
 and showing the default static pages that come with it.
+
+### This Theme
+
+is inspired by the real railsgirl berlin site.
+please replace the logo if you are not holding a railsgirl event.
 
 ### Try it now
 
